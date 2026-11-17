@@ -1,6 +1,6 @@
-# ** A model of career decision making for college students
-## ** Abstract
-### ** This article presents a model of career decision making which is limited in its application to typical undergraduate college students. Limiting the model to a specific stage in the life-span and to a relatively homogeneous environment has resulted in a comprehensive model which includes: a delineation of the internal psychological process of decision making; identification of important developmental and personality characteristics of the decision maker; and specification of immediate or anticipated environmental factors influencing decision making. The model is intended to provide a conceptual framework for assessment of student needs, designing counseling and educational interventions, and for generating empirically testable hypotheses.
+#  A model of career decision making for college students
+##  Abstract
+###  This article presents a model of career decision making which is limited in its application to typical undergraduate college students. Limiting the model to a specific stage in the life-span and to a relatively homogeneous environment has resulted in a comprehensive model which includes: a delineation of the internal psychological process of decision making; identification of important developmental and personality characteristics of the decision maker; and specification of immediate or anticipated environmental factors influencing decision making. The model is intended to provide a conceptual framework for assessment of student needs, designing counseling and educational interventions, and for generating empirically testable hypotheses.
 
 # High School Students' Career Decision-Making Difficulties: A Multi-Factor Analysis Based on Career Construction Theory
 ## Abstract
